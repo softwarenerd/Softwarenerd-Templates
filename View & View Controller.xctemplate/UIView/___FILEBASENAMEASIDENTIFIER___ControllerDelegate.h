@@ -6,8 +6,6 @@
 //___COPYRIGHT___
 //
 
-#import <Foundation/Foundation.h>
-
 // Forward declarations.
 @class ___FILEBASENAMEASIDENTIFIER___Controller;
 

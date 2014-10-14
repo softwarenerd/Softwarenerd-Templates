@@ -33,7 +33,7 @@
 		</dict>
 		<dict>
 			<key>Default</key>
-			<string>UIView</string>
+			<string>CALayer</string>
 			<key>Description</key>
 			<string>What class to subclass in the new file.</string>
 			<key>FallbackHeader</key>
@@ -48,7 +48,7 @@
 			<string>class</string>
 			<key>Values</key>
 			<array>
-				<string>UIView</string>
+				<string>CALayer</string>
 			</array>
 		</dict>
 	</array>

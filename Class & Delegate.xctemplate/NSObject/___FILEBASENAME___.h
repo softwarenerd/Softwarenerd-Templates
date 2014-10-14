@@ -6,7 +6,7 @@
 //___COPYRIGHT___
 //
 
-#import <UIKit/UIKit.h>
+___IMPORTHEADER_cocoaSubclass___
 #import "___FILEBASENAMEASIDENTIFIER___Delegate.h"
 
 // ___FILEBASENAMEASIDENTIFIER___ interface.

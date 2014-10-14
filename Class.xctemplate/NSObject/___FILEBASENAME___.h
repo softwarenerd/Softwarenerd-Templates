@@ -6,7 +6,7 @@
 //___COPYRIGHT___
 //
 
-#import <Foundation/Foundation.h>
+___IMPORTHEADER_cocoaSubclass___
 
 // ___FILEBASENAMEASIDENTIFIER___ interface.
 @interface ___FILEBASENAMEASIDENTIFIER___ : ___VARIABLE_cocoaSubclass___
